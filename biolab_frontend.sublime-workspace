@@ -1,0 +1,348 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"if",
+				"if?\t$… = ( … ) ? … : …"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"alert",
+				"alert-secondary"
+			],
+			[
+				"text",
+				"text-left"
+			],
+			[
+				"d-",
+				"d-flex"
+			],
+			[
+				"cla",
+				"colspan"
+			],
+			[
+				"dis",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/home/nuser/code/s2223/app/Http/Controllers/Administracion/PDF/BoletinController.php",
+		"/home/nuser/code/s2223/app/Models/app/Profesor/Pevaluacion/Evaluacion.php",
+		"/home/nuser/code/s2223/app/Http/Controllers/Admin/Fix/DB/Api/ApiFixRegistroPago.php",
+		"/home/nuser/code/s2223/app/Models/app/Profesor/Pevaluacion.php",
+		"/home/nuser/code/s2223/app/Models/app/Pescolar/Pensum.php",
+		"/home/nuser/code/s2223/app/Models/app/Pescolar/Lapso.php",
+		"/home/nuser/code/s2223/config/livewire.php",
+		"/home/nuser/code/s2223/blueprint/base de datos/migraciones/logica_de_negocio",
+		"/home/nuser/code/s2223/app/Http/Controllers/Profesor/Tab/Functions/Boletins/Carga.php",
+		"/home/nuser/code/s2223/routes/app/tab/profesors/boletins.php",
+		"/home/nuser/code/s2223/routes/app/profesors.php",
+		"/home/nuser/code/s2223/app/Http/Controllers/Profesor/Tab/BoletinController.php",
+		"/home/nuser/code/s2223/database/migrations/2023_03_27_090032_add_date_preclosing_to_lapsos_table.php",
+		"/home/nuser/code/s2223/app/Http/Livewire/Profesor/Census/IndexComponent.php",
+		"/home/nuser/code/s2223/database/migrations/census/2023_02_09_201102_add_date_end_census_to_lapsos_table.php",
+		"/home/nuser/code/s2223/database/migrations/btnPago/2023_03_16_103422_add_trace_pos_to_ingresos_table.php",
+		"/home/nuser/code/s2223/routes/web.php",
+		"/home/nuser/code/s2223/app/Http/Livewire/Service/Payment/Button/Credicard/IndexComponent.php",
+		"/home/nuser/code/s2223/app/Providers/include/icons.php",
+		"/home/nuser/code/s2223/app/Models/app/Estudiante/Representant.php",
+		"/home/nuser/code/s2223/app/Models/app/SenderMailer/Mailer.php",
+		"/home/nuser/code/s2223/app/Models/app/Estudiante/Enrollment.php",
+		"/home/nuser/code/s2223/app/Http/Livewire/Administracion/Mailer/IndexComponent.php",
+		"/home/nuser/code/s2223/app/Http/Controllers/Administracion/Email/MailerController.php",
+		"/home/nuser/code/s2223/.env",
+		"/home/nuser/code/s2223/app/Mail/Queue/Mailer/EmailForQueuing.php",
+		"/home/nuser/code/s2223/app/Jobs/Email/ProcessNotifyMailer.php",
+		"/home/nuser/code/s2223/app/Http/Controllers/Administracion/Chart/LapsoController.php",
+		"/home/nuser/code/s2223/app/Http/Controllers/Administracion/Tab/MailerController.php",
+		"/home/nuser/code/s2223/app/Http/Livewire/General/Poll/IndexComponent.php",
+		"/home/nuser/code/s2223/app/Http/Livewire/Service/Payment/Button/Credicard/UpdatedTrait.php",
+		"/home/nuser/code/s2223/app/Support/herpers.php",
+		"/home/nuser/code/s2223/app/Models/app/Poll/PollQuestion.php",
+		"/home/nuser/code/s2223/app/Models/app/Poll/PollMain.php",
+		"/home/nuser/code/s2223/app/Models/app/Poll/PollAnswer.php",
+		"/home/nuser/code/s2223/database/migrations/2022_07_20_112729_create_poll_options_table.php",
+		"/home/nuser/code/s2223/database/migrations/2022_07_20_112720_create_poll_questions_table.php",
+		"/home/nuser/code/s2223/app/Http/Livewire/Administracion/Poll/PollMainTrait.php",
+		"/home/nuser/code/s2223/app/Http/Livewire/Administracion/Poll/IndexComponent.php",
+		"/home/nuser/code/s2223/app/Http/Livewire/Administracion/Poll/Question/PollQuestionTrait.php",
+		"/home/nuser/code/s2223/app/Http/Livewire/Administracion/Poll/Question/IndexComponent.php",
+		"/home/nuser/code/s2223/app/Http/Controllers/Administracion/Tab/Polls/PollMainController.php",
+		"/home/nuser/code/s2223/routes/app/tab/polls.php",
+		"/home/nuser/code/s2223/blueprint/livewire/logica",
+		"/home/nuser/code/s2223/routes/app/tab/lapso.php",
+		"/home/nuser/code/s2223/routes/app/charts/lapso.php",
+		"/home/nuser/code/s2223/app/Http/Controllers/Administracion/Tab/Configuracion/LapsoController.php",
+		"/home/nuser/code/s2223/blueprint/chart/logica",
+		"/home/nuser/code/s2223/app/Http/Controllers/Administracion/Chart/InscripcionController.php",
+		"/home/nuser/code/s2223/routes/app/control.php",
+		"/home/nuser/code/s2223/app/Http/Livewire/Service/Payment/Button/Credicard/RequestTrait.php",
+		"/home/nuser/code/s2223/app/Http/Livewire/Service/Payment/Button/Credicard/ValidateTrait.php",
+		"/home/nuser/code/s2223/app/Models/app/Estudiante/Functions/Estudiant/Exchanges.php",
+		"/home/nuser/code/s2223/app/Models/app/Estudiante/Functions/Representants/Exchanges.php",
+		"/home/nuser/code/s2223/app/Models/app/Planpago/Functions/Cuentaxpagar/Exchanges.php",
+		"/home/nuser/code/s2223/app/Http/Controllers/Administracion/Tab/RepresentantsController.php",
+		"/home/nuser/code/s2223/app/Http/Livewire/Service/Payment/Button/Credicard/ErrorsApiTrait.php",
+		"/home/nuser/code/s2223/app/Console/Kernel.php",
+		"/home/nuser/code/s2223/routes/admin/test/exchange.php",
+		"/home/nuser/code/s2223/app/Http/Controllers/Restapi/Exchange/CapriceController.php",
+		"/home/nuser/code/s2223/app/Models/app/Planpago/ExchangeRate.php",
+		"/home/nuser/code/s2223/app/Http/Livewire/Service/Payment/Button/Credicard/VariblesTrait.php",
+		"/home/nuser/code/s2223/app/Http/Livewire/Service/Payment/Button/Credicard/StepperTrait.php",
+		"/home/nuser/code/s2223/app/Http/Livewire/Service/Payment/Button/Credicard/setDataTestTrait.php",
+		"/home/nuser/code/s2223/app/Http/Controllers/Admin/Email/SetExchangeRateController.php",
+		"/home/nuser/code/s2223/app/Jobs/Email/Admin/ProcessNotifySetExchangeRate.php",
+		"/home/nuser/code/s2223/app/Mail/Queue/SetExchangeRate/EmailForQueuing.php",
+		"/home/nuser/code/s2223/blueprint/controladores/email",
+		"/home/nuser/code/s2223/app/Http/Livewire/Service/Payment/Button/Credicard/FunctionTrait.php",
+		"/home/nuser/code/s2223/app/Models/app/Estudiante/Functions/Representants/AutoPayment.php",
+		"/home/nuser/code/s2223/app/Http/Livewire/Service/Payment/Button/Credicard/RegistroPagoTrait.php",
+		"/home/nuser/code/s2223/app/Http/Livewire/Service/Payment/Button/Credicard/response.json",
+		"/home/nuser/code/s2223/app/Models/app/Planpago/Functions/Cuentaxpagar/AutoPayment.php",
+		"/home/nuser/code/s2223/app/Http/Livewire/Service/Payment/Button/Credicard/info_card.json",
+		"/home/nuser/code/s2223/app/Models/app/Services/Transaction.php",
+		"/home/nuser/code/s2223/database/migrations/2023_01_25_060334_create_transactions_table.php",
+		"/home/nuser/Downloads/sql/default.sql",
+		"/home/nuser/Downloads/sql/X0Hoc79n->s2223-2023-02-16.sql",
+		"/home/nuser/code/s2223/app/Http/Livewire/Service/Payment/Button/Credicard/PaymentTrait.php",
+		"/home/nuser/code/s2223/composer.json",
+		"/home/nuser/Downloads/formato (1).html",
+		"/home/nuser/code/s2223/config/app.php",
+		"/home/nuser/code/s2223/vendor/seffeng/cryptlib/src/Crypt.php",
+		"/home/nuser/code/s2223/vendor/seffeng/cryptlib/src/Clients/RSA.php",
+		"/home/nuser/code/s2223/vendor/seffeng/laravel-rsa/src/RSA.php",
+		"/home/nuser/code/s2223/vendor/phpseclib/phpseclib/phpseclib/Crypt/RSA.php",
+		"/home/nuser/code/s2223/database/migrations/2023_02_11_120916_insert_data_bancos_table.php",
+		"/home/nuser/code/s2223/app/Models/app/Institucion/Banco.php",
+		"/home/nuser/code/s2223/app/Models/app/Planpago/MetodoPago.php",
+		"/home/nuser/code/s2223/database/migrations/2023_02_11_114609_insert_data_metodo_pagos_table.php",
+		"/home/nuser/code/s2223/app/Http/Controllers/Admin/Fix/DB/Functions/Control/FixProfesor.php",
+		"/home/nuser/code/s2223/database/migrations/2023_02_11_114240_insert_data_method_pays_table.php",
+		"/home/nuser/code/s2223/app/Models/app/Estudiante/Ingreso.php",
+		"/home/nuser/code/s2223/database/migrations/2023_02_11_102505_add_exchange_ammount_rate_to_ingresos_table.php",
+		"/home/nuser/code/s2223/app/Http/Controllers/Administracion/Tab/AsistentController.php",
+		"/home/nuser/code/s2223/app/Models/app/Estudiante/Abono.php",
+		"/home/nuser/code/s2223/app/Models/app/Planpago/ConceptoCancelado.php",
+		"/home/nuser/code/s2223/app/Http/Livewire/Profesor/Census/EnrollmentTrait.php",
+		"/home/nuser/code/s2223/database/migrations/2023_02_10_011346_add_user_id_to_enrollments_table.php",
+		"/home/nuser/code/s2223/app/Models/app/HistoricoNota/Oinstitucion.php",
+		"/home/nuser/code/s2223/database/migrations/2023_02_10_005524_add_institution_to_enrollments_table.php",
+		"/home/nuser/code/s2223/database/migrations/2023_02_10_005218_add_institution_to_enrollments_table.php",
+		"/home/nuser/code/s2223/app/Models/app/Estudiante/Tinscripcion.php",
+		"/home/nuser/code/s2223/app/Http/Controllers/Administracion/Tab/EstudiantesController.php",
+		"/home/nuser/code/s2223/app/Http/Livewire/Academico/Mailer/IndexComponent.php",
+		"/home/nuser/code/s2223/routes/app/tab/profesors/census.php",
+		"/home/nuser/code/s2223/app/Http/Controllers/Profesor/Tab/CensuController.php",
+		"/home/nuser/code/s2223/app/Http/Controllers/Administracion/Tab/Configuracion/ProfesorController.php",
+		"/home/nuser/code/s2223/app/Models/app/Pescolar/Profesor.php",
+		"/home/nuser/code/s2223/blueprint/controladores/census",
+		"/home/nuser/code/s2223/blueprint/controladores/profesors",
+		"/home/nuser/code/s2223/database/migrations/2023_02_09_212630_add_status_census_taker_to_profesors_table.php",
+		"/home/nuser/code/s2223/database/migrations/2023_02_09_201102_add_date_end_census_to_lapsos_table.php",
+		"/home/nuser/code/s2223/database/migrations/2023_02_09_201200_add_date_start_census_to_lapsos_table.php",
+		"/home/nuser/code/s2223/database/migrations/2023_02_09_201053_add_date_start_census_to_lapsos_table.php",
+		"/home/nuser/code/s2223/app/Models/sys/Rol.php",
+		"/home/nuser/code/s2223/database/migrations/2023_02_09_201028_add_status_census_taker_to_rols_table.php",
+		"/home/nuser/code/s2223/app/User.php",
+		"/home/nuser/code/s2223/app/Models/app/Planpago/Functions/ConceptoPago/Exchanges.php",
+		"/home/nuser/code/s2223/app/Http/Controllers/Representant/HomeController.php",
+		"/home/nuser/code/s2223/app/Http/Livewire/Service/Payment/Button/Credicard/getUrlTrait.php",
+		"/home/nuser/code/s2223/app/Http/Livewire/Administracion/ExchangeRate/ListComponent.php",
+		"/home/nuser/code/s2223/app/Http/Controllers/Restapi/Exchange/KurokuroController.php",
+		"/home/nuser/code/s2223/app/Http/Livewire/Service/Payment/Button/Credicard/response.php",
+		"/home/nuser/btnPago/credenciales",
+		"/home/nuser/code/s2223/resources/views/livewire/service/payment/button/credicard/partials/info/arrSendPayment",
+		"/home/nuser/btnPago/Qa.postman_collection.json",
+		"/home/nuser/btnPago/appq.credicard.com.ve.crt"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/nuser/code/biolab/public"
+		},
+		{
+			"path": "/home/nuser/code/biolab/resources"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 96.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
